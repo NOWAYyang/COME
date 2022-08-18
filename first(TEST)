@@ -1,0 +1,7 @@
+#include<iosteram>
+using naespace std;
+int main()
+{
+  print<<"HELLO WORLD"<<endl<<"GOOD BYE";
+  return 0
+ }
